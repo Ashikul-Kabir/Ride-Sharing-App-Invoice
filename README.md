@@ -25,7 +25,6 @@ for the ease of displaying the input & output units in console. I created the ob
 of the classes of vehicles & called all the required functions using the objects to
 display the desired output. This function is basically used to execute the whole
 program as per user input & display the invoice of fares for a user.
-6. Finally, I tried to keep the code very accurate & specific in terms of instructions
+6. Finally, I tried to keep the code very clean, accurate & specific in terms of instructions
 & logics. It should work properly for every possible condition that a user might
-want to implement while using an original ride sharing app without generating
-errors.
+want to implement while using any identical ride sharing app.
